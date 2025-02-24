@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://i.ibb.co/cSBy2Gp9/Capture-d-cran-2025-02-24-223256.png" alt="FreeCodeCamp Quality Assurance Certification" width="500">
+</p>
+
+# FreeCodeCamp Quality Assurance Certification
+
 This repository is part of my **FreeCodeCamp Quality Assurance Certification**.  
 
-![FreeCodeCamp Quality Assurance Certification](https://i.ibb.co/4nqF46DL/certif.png)  
-[Verify my certification here](https://www.freecodecamp.org/certification/makrem-ltifi/quality-assurance-v7)
+[🔗 Verify my certification here](https://www.freecodecamp.org/certification/makrem-ltifi/quality-assurance-v7)
 
+---
 
-Made with ❤️ by [Your Name](https://github.com/makrem7)  
+Made with 💛 by [Makrem](https://github.com/makrem7)  
 Certified in Quality Assurance by [FreeCodeCamp](https://www.freecodecamp.org/)
